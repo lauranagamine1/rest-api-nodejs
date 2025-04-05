@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-nodejs",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauranagamine1/rest-api-nodejs.git"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "Laura Nagamine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauranagamine1/rest-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/lauranagamine1/rest-api-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
